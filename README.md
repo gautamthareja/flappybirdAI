@@ -9,4 +9,4 @@ Reinforcement learning has been used to reach to the optimal solution.
 
 In the config file, the congiguration for the NEAT algorithm has been done by setting various parameters like the population number in each gen, the probability of mutation etc.
 
-The project has been done with insipration and guidance by Tech with Tim on youtube.
+The project has been done with insipration and guidance from Tech with Tim on youtube.
