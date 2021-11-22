@@ -9,4 +9,43 @@ Reinforcement learning has been used to reach to the optimal solution.
 
 In the config file, the congiguration for the NEAT algorithm has been done by setting various parameters like the population number in each gen, the probability of mutation etc.
 
-The project has been done with insipration and guidance from Tech with Tim on youtube.
+
+
+
+<h2> Flowchart of Methodology </h2>
+<img src = "https://github.com/gautamthareja/flappybirdAI/blob/main/flowchart.png" >
+
+<h2> Screenshots of the program </h2>
+
+
+<h3> Input to the fitness function </h3>
+<img src = "https://github.com/gautamthareja/flappybirdAI/blob/main/flowchart.png" >
+
+
+<h3> Input to the fitness function </h3>
+<img src = "https://github.com/gautamthareja/flappybirdAI/blob/main/input.png" >
+
+
+<h3> Pipe collision </h3>
+<img src = "https://github.com/gautamthareja/flappybirdAI/blob/main/collpipe.png" >
+
+
+<h3> Bottom collision </h3>
+<img src = "https://github.com/gautamthareja/flappybirdAI/blob/main/collbase.png" >
+
+
+<h3> Top collision </h3>
+<img src = "https://github.com/gautamthareja/flappybirdAI/blob/main/colltop.png" >
+
+
+<h3> Improvement </h3>
+<img src = "https://github.com/gautamthareja/flappybirdAI/blob/main/improv.png" >
+
+<h3></h3>
+
+<h3> Youtube Video Link: https://www.youtube.com/watch?v=LPgLDxBsVZU </h3>
+
+
+
+
+
