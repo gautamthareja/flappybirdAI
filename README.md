@@ -13,33 +13,33 @@ In the config file, the congiguration for the NEAT algorithm has been done by se
 
 
 <h2> Flowchart of Methodology </h2>
-<img src = "https://github.com/gautamthareja/flappybirdAI/blob/main/flowchart.png" >
+<img src = "https://github.com/gautamthareja/flappybirdAI/blob/master/flowchart.png" >
 
 <h2> Screenshots of the program </h2>
 
 
 <h3> Input to the fitness function </h3>
-<img src = "https://github.com/gautamthareja/flappybirdAI/blob/main/flowchart.png" >
+<img src = "https://github.com/gautamthareja/flappybirdAI/blob/master/flowchart.png" >
 
 
 <h3> Input to the fitness function </h3>
-<img src = "https://github.com/gautamthareja/flappybirdAI/blob/main/input.png" >
+<img src = "https://github.com/gautamthareja/flappybirdAI/blob/master/input.png" >
 
 
 <h3> Pipe collision </h3>
-<img src = "https://github.com/gautamthareja/flappybirdAI/blob/main/collpipe.png" >
+<img src = "https://github.com/gautamthareja/flappybirdAI/blob/master/collpipe.png" >
 
 
 <h3> Bottom collision </h3>
-<img src = "https://github.com/gautamthareja/flappybirdAI/blob/main/collbase.png" >
+<img src = "https://github.com/gautamthareja/flappybirdAI/blob/master/collbase.png" >
 
 
 <h3> Top collision </h3>
-<img src = "https://github.com/gautamthareja/flappybirdAI/blob/main/colltop.png" >
+<img src = "https://github.com/gautamthareja/flappybirdAI/blob/master/colltop.png" >
 
 
 <h3> Improvement </h3>
-<img src = "https://github.com/gautamthareja/flappybirdAI/blob/main/improv.png" >
+<img src = "https://github.com/gautamthareja/flappybirdAI/blob/master/improv.png" >
 
 <h3></h3>
 
