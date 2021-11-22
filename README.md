@@ -19,10 +19,6 @@ In the config file, the congiguration for the NEAT algorithm has been done by se
 
 
 <h3> Input to the fitness function </h3>
-<img src = "https://github.com/gautamthareja/flappybirdAI/blob/master/flowchart.png" >
-
-
-<h3> Input to the fitness function </h3>
 <img src = "https://github.com/gautamthareja/flappybirdAI/blob/master/input.png" >
 
 
